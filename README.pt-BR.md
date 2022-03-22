@@ -1,7 +1,7 @@
 <p>
-  <a href="/README.en.md">English</a>
+  <a href="/README.md">English</a>
   ·
-  <a href="https://github.com/nataelienai">Português Brasileiro</a>
+  <a href="/README.pt-BR.md">Português Brasileiro</a>
 </p>
 
 <div>
@@ -9,19 +9,19 @@
   <a href="https://www.linkedin.com/in/nataelienai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Welcome, nice to meet you!
+## Bem-vindo, muito prazer!
 
-### A little about myself
+### Um pouco sobre mim
 
-- 📖 I'm currently studying Web development at [Trybe](https://www.betrybe.com/)
-- 🌱 I'm currently learning Node.js
-- 👯 I'm looking to collaborate on projects that make everyday tasks easier
-- 🤔 I'm looking for help with naming conventions, folder structure and separation of concerns
-- 💬 If you want to chat with me, ask me about programming or geek stuff
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I think out loud all the time (especially when I'm coding 😂)
+- 📖 Atualmente estudo desenvolvimento Web na [Trybe](https://www.betrybe.com/)
+- 🌱 Estou aprendendo Node.js
+- 👯 Procuro colaborar em projetos que facilitem tarefas diárias
+- 🤔 Procuro ajuda com convenções de nomenclatura, estrutura de pastas e separação de interesses
+- 💬 Se quiser conversar comigo, é só comentar algo sobre programação ou coisas da cultura geek
+- 😄 Pronomes: ele/dele
+- ⚡ Curiosidade: eu penso em voz alta o tempo todo (principalmente quando estou codando 😂)
 
-### Technologies I use
+### Tecnologias que utilizo
 
 <div style="display: inline_block">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -59,7 +59,7 @@
   </a>
 </div>
 
-### GitHub Stats
+### Estatísticas do GitHub
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -68,4 +68,4 @@
   </a>
 </div><br />
 
-> _Credits: GitHub Readme Stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats), icons by [devicons](https://github.com/devicons/devicon) and badges by [shields.io](https://shields.io/)_
+> _Créditos: GitHub Readme Stats por [anuraghazra](https://github.com/anuraghazra/github-readme-stats), ícones por [devicons](https://github.com/devicons/devicon) e badges por [shields.io](https://shields.io/)_
