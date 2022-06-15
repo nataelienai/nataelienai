@@ -13,49 +13,52 @@
 
 ### Um pouco sobre mim
 
-- 📖 Atualmente estudo desenvolvimento Web na [Trybe](https://www.betrybe.com/)
-- 🌱 Estou aprendendo Node.js
-- 👯 Procuro colaborar em projetos que facilitem tarefas diárias
-- 🤔 Procuro ajuda com convenções de nomenclatura, estrutura de pastas e separação de interesses
-- 💬 Se quiser conversar comigo, é só comentar algo sobre programação ou coisas da cultura geek
+- 📖 Atualmente estudo Desenvolvimento Web Full Stack na [Trybe](https://www.betrybe.com/)
+- 🌱 Estou constantemente aprendendo e interessado em tecnologias de Back-End, como Node.js, JavaScript e SQL
+- 👯 Gostaria de colaborar em projetos que ajudem as pessoas a se tornarem suas melhores versões
+- 🤔 Estou procurando ajuda em como aplicar, de forma prática, os princípios SOLID
+- 💬 Me pergunte sobre programação ou cultura geek, eu vou adorar conversar contigo
 - 😄 Pronomes: ele/dele
-- ⚡ Curiosidade: eu penso em voz alta o tempo todo (principalmente quando estou codando 😂)
+- 😂 Curiosidade: eu penso em voz alta o tempo todo (principalmente quando estou codando)
 
 ### Tecnologias que utilizo
 
 <div style="display: inline_block">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img align="center" alt="HTML logo" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img align="center" alt="CSS logo" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img align="center" alt="JavaScript logo" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   </a>
-  <a href="https://jestjs.io/">
-    <img align="center" alt="Jest logo" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-  </a>
-  <a href="https://reactjs.org/">
-    <img align="center" alt="React logo" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  </a>
-  <a href="https://testing-library.com/docs/react-testing-library/intro/">
-    <img align="center" alt="React Testing Library logo" height="40" width="45" src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4">
-  </a>
-  <a href="https://redux.js.org/">
-    <img align="center" alt="Redux logo" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  </a>
-  <a href="https://www.docker.com/">
-    <img align="center" alt="Docker logo" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  </a>
-  <a href="https://www.mysql.com/">
-    <img align="center" alt="MySQL logo" height="70" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <a href="https://www.typescriptlang.org/">
+    <img align="center" alt="TypeScript logo" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   </a>
   <a href="https://nodejs.org/en/">
     <img align="center" alt="NodeJS logo" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   </a>
   <a href="https://expressjs.com/">
     <img align="center" alt="Express logo" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  </a>
+  <a href="https://www.mysql.com/">
+    <img align="center" alt="MySQL logo" height="70" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  </a>
+  <a href="https://www.docker.com/">
+    <img align="center" alt="Docker logo" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  </a>
+  <a href="https://jestjs.io/">
+    <img align="center" alt="Jest logo" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img align="center" alt="HTML logo" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img align="center" alt="CSS logo" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </a>
+  <a href="https://reactjs.org/">
+    <img align="center" alt="React logo" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  </a>
+  <a href="https://redux.js.org/">
+    <img align="center" alt="Redux logo" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  </a>
+  <a href="https://testing-library.com/docs/react-testing-library/intro/">
+    <img align="center" alt="React Testing Library logo" height="40" width="45" src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4">
   </a>
 </div>
 
