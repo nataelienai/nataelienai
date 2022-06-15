@@ -56,10 +56,10 @@
   </a>
   <a href="https://redux.js.org/">
     <img align="center" alt="Redux logo" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  </a>
   <a href="https://testing-library.com/docs/react-testing-library/intro/">
     <img align="center" alt="React Testing Library logo" height="40" width="45" src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4">
   </a>
-  </a>  
 </div>
 
 ### GitHub Stats
