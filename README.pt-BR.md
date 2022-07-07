@@ -14,7 +14,7 @@
 ### Um pouco sobre mim
 
 - 📖 Atualmente estudo Desenvolvimento Web Full Stack na [Trybe](https://www.betrybe.com/)
-- 🌱 Estou constantemente aprendendo e interessado em tecnologias de Back-End, como Node.js, JavaScript e SQL
+- 🌱 Estou constantemente aprendendo e interessado em tecnologias de Back-End, como Node.js
 - 👯 Gostaria de colaborar em projetos que ajudem as pessoas a se tornarem suas melhores versões
 - 🤔 Estou procurando ajuda em como aplicar, de forma prática, os princípios SOLID
 - 💬 Me pergunte sobre programação ou cultura geek, eu vou adorar conversar contigo
