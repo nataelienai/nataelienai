@@ -1,7 +1,7 @@
 <p>
-  <a href="/README.en.md">English</a>
+  <a href="/README.md"><ins>Português Brasileiro<ins></a>
   ·
-  <a href="/README.md">Português Brasileiro</a>
+  <a href="/README.en.md">English</a>
 </p>
 
 <div>
@@ -16,7 +16,7 @@
 - 📖 Estudo programação desde 2019 e recentemente concluí o curso **Desenvolvimento Web Full Stack** na [Trybe](https://www.betrybe.com/)
 - 🌱 Atualmente estou estudando e praticando formas de construir **APIs escaláveis em Node.js**
 - 💬 Me pergunte sobre **Node.js, Web API, testes, princípios SOLID ou padrões arquiteturais, ficarei feliz em ajudar!**
-- 💼 Estou buscando emprego onde eu possa continuar aprendendo e contribuindo para o desenvolvimento de soluções eficazes
+- 💼 Estou buscando emprego numa empresa onde eu possa continuar aprendendo e contribuindo para o desenvolvimento de soluções eficazes
 - 😄 Uma curiosidade: andar pela casa me ajuda a resolver problemas complexos
 
 ### Algumas tecnologias que eu uso:
