@@ -38,7 +38,7 @@
     <img align="center" alt="MySQL logo" height="75" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
-    <img align="center" alt="PostgreSQL logo" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg">
+    <img align="center" alt="PostgreSQL logo" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain-wordmark.svg">
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img align="center" alt="MongoDB logo" height="52" width="57" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg">
@@ -58,11 +58,16 @@
 </div>
 
 ### Métricas do GitHub:
-
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataelienai&locale=pt-br&show_icons=true&bg_color=00000000&hide_border=true&include_all_commits=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataelienai&locale=pt-br&layout=compact&langs_count=6&bg_color=00000000&hide_border=true">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nataelienai&locale=pt-br&show_icons=true&title_color=58A6FF&icon_color=1F6FEB&text_color=DAE9F2&bg_color=00000000&hide_border=true&include_all_commits=true">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataelienai&locale=pt-br&show_icons=true&bg_color=00000000&hide_border=true&include_all_commits=true">
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nataelienai&locale=pt-br&layout=compact&langs_count=6&title_color=58A6FF&icon_color=1F6FEB&text_color=DAE9F2&bg_color=00000000&hide_border=true">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataelienai&locale=pt-br&layout=compact&langs_count=6&bg_color=00000000&hide_border=true">
+    </picture>
   </a>
 </div><br />
 
