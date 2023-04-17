@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/nataelienai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Bem-vinda(o), muito prazer!
+## Bem-vinda(o), muito prazer! 👋
 
 ### Um pouco sobre mim
 
